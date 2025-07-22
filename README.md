@@ -16,11 +16,6 @@ Fitur Penting:
 - PreferedOrderCat: Kategori produk favorit
 Target: Churn (1=Churn, 0=Tetap aktif)
 
-Pembandingan Model
-|  Model               |  Precision  |  Recall  |  Penghematan/Bulan  |
-|  XGBoost             |  0.83       |  0.77    |  Rp14.9 juta        |
-|  Logistic Regression |  0.35       |  0.79	  |        -            |
-
 **Dampak Bisnis**
 - Promo Tepat Sasaran: FP turun dari 89 ke 19 kasus/bulan
 - Penghematan: Rp7 juta/bulan dari anggaran promo
